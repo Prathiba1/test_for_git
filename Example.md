@@ -10,6 +10,7 @@ Hello!!! You are the new trainer
 I am lost ............
 
 ## Topics
+This course is tricky
 Headings   
 Bullet point lists (& nesting). 
 * Point 1
