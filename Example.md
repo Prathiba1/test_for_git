@@ -10,6 +10,8 @@ Hello!!! You are the new trainer
 I am lost ............
 great time ...
 
+OK can i push changes? MG
+
 ## Topics
 This course is tricky
 Headings   
