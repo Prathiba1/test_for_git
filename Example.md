@@ -4,7 +4,7 @@ Held at the Fawkes Training Room on 5th November from 13:00 to 17:00
 ### Trainers
 Ash.    
 Mark. 
-Hi, I am lot too, need more trial and error
+Hi, I am lot too, need more trial and error testing, by prathiba
 prathiba
 Hello!!! You are the new trainer
 I am lost ............
